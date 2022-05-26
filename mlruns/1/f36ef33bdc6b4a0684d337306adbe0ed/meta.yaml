@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/michieldekoninck/code/Michiel-DK/TaxiFareModel/mlruns/1/f36ef33bdc6b4a0684d337306adbe0ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: f36ef33bdc6b4a0684d337306adbe0ed
+run_uuid: f36ef33bdc6b4a0684d337306adbe0ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652814147624
+status: 1
+tags: []
+user_id: unknown
